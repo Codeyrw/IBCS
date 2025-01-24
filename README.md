@@ -17,7 +17,7 @@ scipy==1.7.3
 ogb==1.3.6  
 
 ## Download the datasets
-The OOD datasets (Spurious-Motif, MNIST-75sp, Graph-SST2) are provided by [DIR](https://github.com/Wuyxin/DIR-GNN). As for TUdataset (MUTAG, IMDB-BINARY, PROTEINS, DD), they can be directly and automatically downloaded while running the code. For OGB data, the code can also automatically download them. For convenience, we have provided all datasets in [Google Drive link](https://drive.google.com/drive/folders/1Dtfjej8BZVy16bfxMtkh1hjavF9XDbpo), where TUdatasets can be found in './data/raw' directory. Please download the 'data.zip' file and unzip them to 'data/' directory at the root path.
+The OOD datasets (Spurious-Motif, MNIST-75sp, Graph-SST2) are provided by [DIR](https://github.com/Wuyxin/DIR-GNN). As for TUdataset (MUTAG, IMDB-BINARY, PROTEINS, DD), they can be directly downloaded while running the code. For OGB data, the code can also automatically download them. For convenience, we have provided all datasets in the [Google Drive link](https://drive.google.com/drive/folders/1Dtfjej8BZVy16bfxMtkh1hjavF9XDbpo), where TUdatasets can be found in the './data/raw' directory. Please download the 'data.zip' file and unzip it to the 'data/' directory at the root path.
 
 ## Instructions to run the code
 
